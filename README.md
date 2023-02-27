@@ -12,6 +12,8 @@ This is the official implementation of our paper "Parsing-Conditioned Anime Tran
 
 # Danbooru-Parsing Dataset
 We train anime parsing model with [face-parsing](https://github.com/zllrunning/face-parsing.PyTorch), and the well trained model can be downloaded [here](https://drive.google.com/file/d/1NhvfYmr9grvHw5lFCfNukurB-Sft-Jvo/view?usp=share_link).
+
+
 |Label List| | |
 |-------|------|------|
 |0:'background'|1:'skin'|2:'l_brow'|
