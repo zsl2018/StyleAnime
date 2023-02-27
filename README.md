@@ -14,15 +14,13 @@ This is the official implementation of our paper "Parsing-Conditioned Anime Tran
 We train anime parsing model with [face-parsing](https://github.com/zllrunning/face-parsing.PyTorch), and the well trained model can be downloaded [here](https://drive.google.com/file/d/1NhvfYmr9grvHw5lFCfNukurB-Sft-Jvo/view?usp=share_link).
 
 
-|Label List| | |
-|-------|------|------|
-|0:'background'|1:'skin'|2:'l_brow'|
-|3:'r_brow'|4:'l_eye'|5:'r_eye'|
-|6:'eye_g'|7:'l_ear'|8:'r_ear'|
-|9:'ear_r'|10:'nose'|11:'mouth'|
-|12:'u_lip'|13:'l_lip'|14:'neck'|
-|15:'neck_l'|16:'cloth'|17:'hair'|
-|18:'hat'| | |
+|Label List| | | |
+|-------|------|------|-------|
+|0:'background'|1:'skin'|2:'l_brow'|3:'r_brow'|
+|4:'l_eye'|5:'r_eye'|6:'eye_g'|7:'l_ear'|
+|8:'r_ear'|9:'ear_r'|10:'nose'|11:'mouth'|
+|12:'u_lip'|13:'l_lip'|14:'neck'|15:'neck_l'|
+|16:'cloth'|17:'hair'|18:'hat'| |
 
   
  
