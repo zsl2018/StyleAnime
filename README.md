@@ -5,7 +5,8 @@
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/teaser.jpg)
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/video1.gif)  
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/video2.gif)  
-< img src="teaser.jpg" width="512px"/>
+<img src="teaser.jpg" width="512px"/>
+<br>
 
 # Description
 This is the official implementation of our paper "Parsing-Conditioned Anime Translation: A New Dataset and Method"(ACM TOG).
