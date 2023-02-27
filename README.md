@@ -7,7 +7,7 @@ This is the official implementation of our paper "Parsing-Conditioned Anime Tran
 
 # Pretrained Models
 Please download the pre-trained models from the following links.  
-｜       Path     |    Description      |  
+      Path     |    Description      |  
 |----------------|--------------------|
 | [StyleAnime](https://drive.google.com/file/d/1zresf1KfX1keJT2dv0jZesDppWLQXYNa/view?usp=share_link)   | Our pretrained styleAnime model (portrait2anime)|  
 
