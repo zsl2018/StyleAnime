@@ -37,7 +37,7 @@ Please download the pre-trained models from the following links.
 |[CurricularFace Backbone](https://drive.google.com/file/d/1y5Y7ZVZNd9UAqVkXnGwl9NK10SUUjsr4/view?usp=share_link) | Pretrained CurricularFace model taken from [HuangYG123](https://github.com/HuangYG123/CurricularFace) for use in ID similarity metric computation.| 
 | [Anime StyleGAN2 Model](https://drive.google.com/file/d/1aYaEx-_sqBrI_KH98s3yc1KZFXQCGm9R/view?usp=share_link) | Finetuned model of StyleGAN2 on our anime dataset with StyleGAN2, code from [rosinality](https://github.com/rosinality/stylegan2-pytorch) | 
 | [Average Latent](https://drive.google.com/file/d/1Zq9Q-nUf0wz71Q_shvAg8c42KIO3LLav/view?usp=share_link) | Average latent of Stylegan2 pretrained model on anime | 
-| [Bank list](https://drive.google.com/file/d/1aho_17m0rZxxj88SCg-NAIfJXMJNaEZs/view?usp=share_link) | FaceBank Aggregation, stylegan2 anime latent list|
+| [Bank List](https://drive.google.com/file/d/1aho_17m0rZxxj88SCg-NAIfJXMJNaEZs/view?usp=share_link) | FaceBank Aggregation, stylegan2 anime latent list|
 | [StyleAnime](https://drive.google.com/file/d/1zresf1KfX1keJT2dv0jZesDppWLQXYNa/view?usp=share_link)   | Our pretrained styleAnime model (portrait2anime)|  
 
 
@@ -45,7 +45,7 @@ The pretrained models should be saved to the directory pretrained_models.
 
 # Preparing Data
 Please first download training dataset:
-	[anime](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
+	[anime](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)  
 	[celeba](https://drive.google.com/file/d/1wwKrufFxZjhTDDm-eHD6Ent2Kc-gOHs7/view?usp=share_link)
 	
 
