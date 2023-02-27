@@ -11,11 +11,7 @@ This is the official implementation of our paper "Parsing-Conditioned Anime Tran
 
 # Danbooru-Parsing Dataset Downloads
  google drive: [downloading link](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
-# Applications
-## Portrait2Anime
-## Anime2Portrait
-## Manga2Anime
-## Video
+
 # Pretrained Models
 Please download the pre-trained models from the following links.  
       Path     |    Description      |  
@@ -32,7 +28,12 @@ Please download the pre-trained models from the following links.
 The pretrained models should be saved to the directory pretrained_models.
 
 # Preparing Data
-Please go to configs/paths_config.py and define:
+Please first download training dataset:
+	[anime]()
+	[celeba]
+	
+
+Then go to configs/paths_config.py and define:
 ```
 dataset_paths = {
 	'anime_train_segmentation': 'path/anime/anime_seg_train',
