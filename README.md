@@ -44,7 +44,7 @@ Please download the pre-trained models from the following links.
 The pretrained models should be saved to the directory pretrained_models.
 
 # Preparing Data
-Please first download training dataset:
+Please first download training dataset:  
 	[anime](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)  
 	[celeba](https://drive.google.com/file/d/1wwKrufFxZjhTDDm-eHD6Ent2Kc-gOHs7/view?usp=share_link)
 	
