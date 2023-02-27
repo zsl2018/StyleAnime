@@ -6,9 +6,9 @@
 This is the official implementation of our paper "Parsing-Conditioned Anime Translation: A New Dataset and Method"(ACM TOG).
 
 # Pretrained Models
-Please download the pre-trained models from the following links.
-｜       Path     |    Description      |
-| [StyleAnime](https://drive.google.com/file/d/1zresf1KfX1keJT2dv0jZesDppWLQXYNa/view?usp=share_link)   | Our pretrained styleAnime model (portrait2anime)|
+Please download the pre-trained models from the following links.  
+｜       Path     |    Description      |  
+| [StyleAnime](https://drive.google.com/file/d/1zresf1KfX1keJT2dv0jZesDppWLQXYNa/view?usp=share_link)   | Our pretrained styleAnime model (portrait2anime)|  
 
 The pretrained models should be saved to the directory pretrained_models.
 d 
