@@ -29,8 +29,8 @@ The pretrained models should be saved to the directory pretrained_models.
 
 # Preparing Data
 Please first download training dataset:
-	[anime]()
-	[celeba]
+	[anime](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
+	[celeba](https://drive.google.com/file/d/1wwKrufFxZjhTDDm-eHD6Ent2Kc-gOHs7/view?usp=share_link)
 	
 
 Then go to configs/paths_config.py and define:
