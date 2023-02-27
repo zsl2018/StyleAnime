@@ -3,9 +3,9 @@
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/overview.png)
 
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/teaser.jpg)
-![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/video1.gif)  
-![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/video2.gif)  
-<img src="Images/video1.gif" width="512px"/>
+<img src="Images/video1.gif" width="400px"/>
+<br>
+<img src="Images/video2.gif" width="400px"/>
 <br>
 
 # Description
