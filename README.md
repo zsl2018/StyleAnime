@@ -102,7 +102,6 @@ We assume that all pretrained models are downloaded and saved to the directory `
 This code borrows heavily from [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
 
 # To Do List
-- [x] Release the pretrained anime parsing model
 - [x] Release the Anime2Portrait code
 
 # Citation
