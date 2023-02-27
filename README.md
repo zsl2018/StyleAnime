@@ -47,7 +47,23 @@ model_paths = {
 # Training
 The main training script can be found in ```scripts/train.py.```
 ```
-python scripts/train.py --exp_dir=/path/output --batch_size=1 --val_interval=2500 --save_interval=5000 --encoder_type=GradualStyleEncoder --start_from_latent_avg --learning_rate=0.0001  --lpips_lambda=2 --l2_lambda=2.5 --hm_lambda=0.1 --w_norm_lambda=0.005 --w_norm_lambda_1=0.005 --loss_adv_weight=0.1 --loss_adv_weight_latent=0.1 --label_nc=19 --input_nc=19 --test_batch_size=1
+python scripts/train.py
+--exp_dir=/path/output
+--batch_size=1
+--val_interval=2500
+--save_interval=5000 
+--encoder_type=GradualStyleEncoder
+--start_from_latent_avg
+--learning_rate=0.0001 
+--lpips_lambda=2 --l2_lambda=2.5 
+--hm_lambda=0.1
+--w_norm_lambda=0.005
+--w_norm_lambda_1=0.005
+--loss_adv_weight=0.1 
+--loss_adv_weight_latent=0.1 
+--label_nc=19 
+--input_nc=19
+--test_batch_size=1
 ```
 # Testing
 ```
@@ -59,7 +75,7 @@ We assume that all pretrained models are downloaded and saved to the directory `
 This code borrows heavily from [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
 
 # Citation
-If you use this code for your research, please cite our paper [Parsing-Conditioned Anime Translation: A New Dataset and Method] :
+If you use this code for your research, please cite our paper [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/pdf/10.1145/3585002) :
 ```
 @article{li2023parsing,
   title={Parsing-Conditioned Anime Translation: A New Dataset and Method},
