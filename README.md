@@ -22,8 +22,8 @@ We train anime parsing model with [face-parsing](https://github.com/zllrunning/f
 |12:'u_lip'|13:'l_lip'|14:'neck'|15:'neck_l'|
 |16:'cloth'|17:'hair'|18:'hat'| |
 
-  
  
+ Download labeled anime dataset:
  [Danbooru-Parsing Dataset](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
  
  
