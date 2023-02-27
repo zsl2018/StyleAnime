@@ -86,6 +86,9 @@ We assume that all pretrained models are downloaded and saved to the directory `
 # Acknowledgments
 This code borrows heavily from [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
 
+# To Do List
+- [x] Release the Anime2Portrait code
+
 # Citation
 If you use this code for your research, please cite our paper [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/pdf/10.1145/3585002) :
 ```
