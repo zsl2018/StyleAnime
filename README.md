@@ -10,8 +10,23 @@
 # Description
 This is the official implementation of our paper "Parsing-Conditioned Anime Translation: A New Dataset and Method"(ACM TOG).
 
-# Danbooru-Parsing Dataset Downloads
- google drive: [downloading link](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
+# Danbooru-Parsing Dataset
+We train anime parsing model with [face-parsing](https://github.com/zllrunning/face-parsing.PyTorch), and the well trained model can be downloaded [here](https://drive.google.com/file/d/1NhvfYmr9grvHw5lFCfNukurB-Sft-Jvo/view?usp=share_link).
+|Label List| | |
+|-------|------|------|
+|0:'background'|1:'skin'|2:'l_brow'|
+|3:'r_brow'|4:'l_eye'|5:'r_eye'|
+|6:'eye_g'|7:'l_ear'|8:'r_ear'|
+|9:'ear_r'|10:'nose'|11:'mouth'|
+|12:'u_lip'|13:'l_lip'|14:'neck'|
+|15:'neck_l'|16:'cloth'|17:'hair'|
+|18:'hat'| | |
+
+  
+ 
+ [Danbooru-Parsing Dataset](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
+ 
+ 
 
 # Pretrained Models
 Please download the pre-trained models from the following links.  
