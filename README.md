@@ -9,7 +9,17 @@ This is the official implementation of our paper "Parsing-Conditioned Anime Tran
 Please download the pre-trained models from the following links.  
       Path     |    Description      |  
 |----------------|--------------------|
-| [StyleAnime](https://drive.google.com/file/d/1zresf1KfX1keJT2dv0jZesDppWLQXYNa/view?usp=share_link)   | Our pretrained styleAnime model (portrait2anime)|  
+| [StyleAnime](https://drive.google.com/file/d/1zresf1KfX1keJT2dv0jZesDppWLQXYNa/view?usp=share_link)   | Our pretrained styleAnime model (portrait2anime)|  | [IR-SE50 Model](https://drive.google.com/file/d/1b7d9xyvUm1y2xxMyX_LTy9UgamVf563F/view?usp=sharing) |Pretrained IR-SE50 model taken from [TreB1eN](https://github.com/TreB1eN/InsightFace_Pytorch) for use in our ID loss during pSp training.| 
+| [MTCNN](https://drive.google.com/file/d/1w46525L0FvoCzcVZpuiXVfMzmyOO_3A2/view?usp=sharing) | Weights for [MTCNN](https://github.com/TreB1eN/InsightFace_Pytorch) model taken from TreB1eN for use in ID similarity metric computation. (Unpack the tar.gz to extract the 3 model weights.)|
+|[CurricularFace Backbone](https://drive.google.com/file/d/1y5Y7ZVZNd9UAqVkXnGwl9NK10SUUjsr4/view?usp=share_link) | Pretrained CurricularFace model taken from [HuangYG123](https://github.com/HuangYG123/CurricularFace) for use in ID similarity metric computation.| 
+| [Anime StyleGAN2 Model] | Pretrained model of StyleGAN2 on our anime dataset | 
+| [Average Latent ] | Average latent of Stylegan2 pretrained model on anime | 
+| [Bank list] | FaceBank Aggregation, stylegan2 anime latent list|
+
 
 The pretrained models should be saved to the directory pretrained_models.
-d 
+
+# Preparing Data
+Please go to configs/paths_config.py and define:
+```dataset_path = 
+
