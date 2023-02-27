@@ -5,6 +5,13 @@
 # Description
 This is the official implementation of our paper "Parsing-Conditioned Anime Translation: A New Dataset and Method"(ACM TOG).
 
+# Danbooru-Parsing Dataset Downloads
+ google drive: [downloading link](https://drive.google.com/file/d/13C7Jphi8dYkY_0HoqIZeXAIkppyKlzmQ/view?usp=share_link)
+# Applications
+## Portrait2Anime
+## Anime2Portrait
+## Manga2Anime
+## Video
 # Pretrained Models
 Please download the pre-trained models from the following links.  
       Path     |    Description      |  
