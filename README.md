@@ -3,7 +3,7 @@
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/overview.png)
 
 ![image](https://github.com/zsl2018/StyleAnime/blob/master/Images/teaser.jpg)
-![video1](https://github.com/zsl2018/StyleAnime/blob/master/Images/video1.mp4)
+![](https://github.com/zsl2018/StyleAnime/blob/master/Images/video1.gif)
 ![video2](https://github.com/zsl2018/StyleAnime/blob/master/Images/video2.mp4)
 
 # Description
